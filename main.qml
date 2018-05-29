@@ -59,7 +59,7 @@ Window {
                    font {
                        pointSize: 12
                    }
-                   readOnly: true
+
 
                    wrapMode: Text.WrapAtWordBoundaryOrAnywhere
                 }
